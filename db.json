@@ -20,6 +20,34 @@
       "tech": "Sara Wilson",
       "date": "2020-12-22T01:04:49.637Z",
       "id": 3
+    },
+    {
+      "message": "Blue screen of death on workstation 003",
+      "attention": true,
+      "tech": "Steven Duong",
+      "date": "2020-12-22T03:09:41.394Z",
+      "id": 4
+    },
+    {
+      "message": "Login issue",
+      "attention": false,
+      "tech": "Sara Wilson",
+      "date": "2020-12-22T03:10:14.564Z",
+      "id": 5
+    },
+    {
+      "message": "Unable to recognize USB device on workstation 009",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2020-12-22T03:11:10.763Z",
+      "id": 6
+    },
+    {
+      "message": "Slow internet",
+      "attention": true,
+      "tech": "Steven Duong",
+      "date": "2020-12-22T03:11:41.969Z",
+      "id": 7
     }
   ],
   "techs": [
@@ -37,6 +65,16 @@
       "id": 3,
       "firstName": "Sara",
       "lastName": "Wilson"
+    },
+    {
+      "firstName": "Greg",
+      "lastName": "Harris",
+      "id": 4
+    },
+    {
+      "firstName": "Steven",
+      "lastName": "Duong",
+      "id": 5
     }
   ]
 }
